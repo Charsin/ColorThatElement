@@ -1,0 +1,1 @@
+document.querySelectorAll("div")[0].style.border = "2px solid red";
